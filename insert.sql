@@ -41,16 +41,4 @@ insert into books_subjects values (7,5);
 insert into books_subjects values (7,8);
 insert into books_subjects values (8,8);
 insert into books_subjects values (8,9);
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 
